@@ -1,0 +1,7 @@
+regras:
+- fontes pro ebooks precisam ser multiplas de 8;
+- 8, 16, 24, 32...;
+- utilizar poucos textos;
+- layout agradavel;
+- titulo com o dobro de tamanho do tamanho normal;
+- subtitulo com o tamanho do meio entre a fonte normal e o titulo.
