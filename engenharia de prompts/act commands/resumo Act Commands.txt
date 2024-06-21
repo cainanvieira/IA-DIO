@@ -1,0 +1,5 @@
+act commands = pedir para o chat atuar como se fosse algo/alguém. Exemplo: terminal do VSCode, Excel Sheets, terminal do Linux, terminal SQL, gerador de padrões de commits, atores/figuras historicas, etc.
+
+Pode adicionar {REGRAS} se quiser (utilizando > como sempre).
+
+https://github.com/f/awesome-chatgpt-prompts
